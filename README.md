@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-- 🌱 I’m actively using ** Java, Spring, Maven, Atlassian Techs, React, MySQL, Redis**
+- 🌱 I’m actively using ** Java, Spring, MySQL, Atlassian Techs, React**
 
 - 📝 I write articles on [https://medium.com/@yusfincii](https://medium.com/@yusfincii)
 
